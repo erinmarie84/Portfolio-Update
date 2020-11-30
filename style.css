@@ -98,4 +98,153 @@ header{
     padding: 10px;
 }
 
+.btn1 {
 
+    background-color: rgb(171, 197, 182); 
+    border-radius: 2px;
+    border: none;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+
+.btn1:hover {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid white;
+
+}
+
+
+.btn2 {
+
+    background-color: rgb(121, 124, 122); 
+    border-radius: 2px;
+    border: none;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+
+.btn2:hover {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid white;
+
+}
+
+.btn3 {
+
+    background-color: rgb(49, 192, 73); 
+    border-radius: 2px;
+    border: none;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+
+.btn3:hover {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid white;
+
+}
+
+.btn4 {
+
+    background-color: rgb(81, 151, 243); 
+    border-radius: 2px;
+    border: none;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+
+.btn4:hover {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid white;
+
+}
+
+.btn5 {
+
+    background-color: rgb(105, 116, 218); 
+    border-radius: 2px;
+    border: none;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+
+.btn5:hover {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid white;
+
+}
+
+.btn6 {
+
+    background-color: rgb(98, 196, 174); 
+    border-radius: 2px;
+    border: none;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+}
+
+.btn6:hover {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid white;
+
+}
